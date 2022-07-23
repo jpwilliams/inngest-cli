@@ -1,5 +1,5 @@
 {
-  "name": "@jpwilliams/cli-github-test",
+  "name": "@inngest/cli",
   "version": "",
   "description": "The event-driven queue for any language.",
   "license": "SEE LICENSE IN LICENSE.md",
